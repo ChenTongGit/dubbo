@@ -29,6 +29,8 @@
     <version>${revision}</version>
     <packaging>pom</packaging>
 
+<!--    test-->
+
     <name>${project.artifactId}</name>
     <description>The parent project of dubbo</description>
     <url>https://github.com/apache/dubbo</url>
